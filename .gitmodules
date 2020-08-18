@@ -1,0 +1,6 @@
+[submodule "src/toy-machine"]
+	path = src/toy-machine
+	url = https://github.com/MrSquigy/toy-machine
+[submodule "src/tasm"]
+	path = src/tasm
+	url = https://github.com/MrSquigy/tasm
